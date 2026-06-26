@@ -2,7 +2,22 @@ html {
     background-color:#00071e;
 }
 
+#content {
+    max-width:800px;
+    margin:0px auto;
+    font-size: 24px;
+    color:white;
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+}
+
 #mainImg {
     margin:20px auto;
     display:block;
+}
+
+p.centered {
+    text-align:center;
 }
